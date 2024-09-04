@@ -1,0 +1,1 @@
+La versión de Java utilizada es Java 17 y de SQL Server es la 2019
