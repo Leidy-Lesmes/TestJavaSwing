@@ -1,0 +1,8 @@
+package controller;
+
+public enum Actions {
+	
+	SEARCH, ADD, EDIT, DELETE, NEW_TYPE, NEW_DEVICE, ASSIGN, COLLECT, SUBMIT_PREALERT, 
+	ACCEPT_NEW_TYPE, CLOSE_NEW_TYPE;
+
+}
